@@ -6,5 +6,5 @@ function armazenarValor() {
     console.log("o valor da variavel é " + userInput);
     
     // Corrigido o ID para "valorInserido" e o uso do +
-    document.getElementById("valorInserido").innerText = " sua resposta é" + userInput;
+    // document.getElementById("valorInserido").innerText = " sua resposta é: " + userInput;
 }
