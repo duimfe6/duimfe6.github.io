@@ -7,5 +7,5 @@ function armazenarValor() {
     
     // Corrigido o ID para "valorInserido" e o uso do +
     document.getElementById("valorInserido").innerText = " sua resposta é: " + userInput;
-
 }
+
